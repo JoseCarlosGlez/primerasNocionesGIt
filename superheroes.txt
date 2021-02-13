@@ -5,3 +5,5 @@ flash
 Mujer Maravilla
 PedroPerez
 SuperGirl
+Pedro_perez
+Super_girl
